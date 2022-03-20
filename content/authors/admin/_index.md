@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Jasper Shi (石君)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: student
 
 # Status emoji
 status:
@@ -14,16 +14,16 @@ status:
 
 # Organizations/Affiliations
 organizations:
-- name: 腾讯
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include bibliometrics, literature content analysis and history.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- Bibliometrics
+#- Evolution of Brand Thought
+#- 
 
 #education:
 #  courses:
